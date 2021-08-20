@@ -1,0 +1,1 @@
+powershell -Command "Invoke-WebRequest https://github.com/tgeske88/Powershell-Public/blob/main/WindowsUpdateNotification.ps1 -OutFile C:\CTPtemp\WindowsUpdateNotification.ps1"
